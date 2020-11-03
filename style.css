@@ -1,0 +1,22 @@
+body, html{
+    background-color: #fff;
+    height: 98%;
+    display: grid;
+}
+
+#flex-container{
+    margin: auto;
+    width: 40%;
+}
+
+.flex-item{
+    display: block;
+}
+cite{
+    text-align: left;
+}
+
+#newq, #addq{
+    margin: auto;
+    display: inline-block;
+}
