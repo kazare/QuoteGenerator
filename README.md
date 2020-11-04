@@ -12,6 +12,6 @@ Randomly shows a quote on load and on each button press
 - CSS flexbox for alignment
 
 # In Development
-- Ability to add new quotes on client side
-- Improved design
-- Respsonive/mobile first design
+- [] Ability to add new quotes on client side
+- [x] Improved design
+- [] Respsonive/mobile first design
