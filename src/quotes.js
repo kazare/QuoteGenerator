@@ -1,4 +1,4 @@
-[
+const quotes = [
   {
     "quote": "It is never too late to be what you might have been.",
     "source": "Mary Ann Evans"
@@ -23,4 +23,6 @@
     "quote": "The more you think and talk about your goals, the more positive and enthusiastic you become.",
     "source": "Billy Cox"
   }
-]
+];
+
+export default quotes;

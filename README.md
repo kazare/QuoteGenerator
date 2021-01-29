@@ -15,3 +15,4 @@ Randomly shows a quote on load and on each button press
 - [ ] Ability to add new quotes on client side
 - [x] Improved design
 - [ ] Respsonive/mobile first design
+- [ ] Add background overlay for improved readability

@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+body,
+html {
+  height: 100vh;
+  margin: 0px;
+  display: grid;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-image: url("../src/pexels-johannes-plenio-1423600.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+}
+
+a,
+a:visited {
+  color: #2f5240;
+}
+
+a:hover {
+  color: #666951;
+}
+
+#flex-container {
+  margin: auto;
+  width: 40vw;
+}
+
+.flex-item {
+  display: block;
+}
+cite {
+  text-align: left;
+}
+
+#newq,
+#addq {
+  margin: auto;
+  display: inline-block;
+  border: 3px solid white;
+  border-radius: 5px;
+  background: none;
+  background-color: rgba(255, 255, 255, 0.6);
+  color: rgba(0, 0, 0, 0.6);
+  padding: 10px;
+}
+
+#newq:hover,
+#addq:hover {
+  background-color: white;
+}
+
+#quote,
+#source {
+  margin-bottom: 30px;
+}
+
+#quote {
+  font-size: 2em;
+}
+
+#source {
+  font-size: 1em;
+}
+
+#img-src {
+  position: absolute;
+  bottom: 0px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 5px;
+  padding: 5px 10px;
+}
